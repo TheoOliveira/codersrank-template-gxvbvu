@@ -1,6 +1,18 @@
 .center {
   margin: 200px auto;
-  text-align: center;
+  text-align: justify;
   border: 1px solid black;
  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.center ul {
+  text-align: justify;
+}
+
+#subtitle {
+  text-align: center;
+}
+
+#working {
+  text-align: center;
 }
